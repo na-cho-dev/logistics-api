@@ -1,0 +1,142 @@
+[
+    {
+        "firstname": "John",
+        "lastname": "Doe",
+        "username": "johndoe1",
+        "email": "johndoe1@example.com",
+        "phone_number": "+12345678901"
+    },
+    {
+        "firstname": "Jane",
+        "lastname": "Smith",
+        "username": "janesmith",
+        "email": "janesmith@example.com",
+        "phone_number": "+12345678902"
+    },
+    {
+        "firstname": "Alice",
+        "lastname": "Johnson",
+        "username": "alicejohnson",
+        "email": "alicejohnson@example.com",
+        "phone_number": "+12345678903"
+    },
+    {
+        "firstname": "Bob",
+        "lastname": "Williams",
+        "username": "bobwilliams",
+        "email": "bobwilliams@example.com",
+        "phone_number": "+12345678904"
+    },
+    {
+        "firstname": "Michael",
+        "lastname": "Brown",
+        "username": "michaelbrown",
+        "email": "michaelbrown@example.com",
+        "phone_number": "+12345678905"
+    },
+    {
+        "firstname": "Emma",
+        "lastname": "Davis",
+        "username": "emmadavis",
+        "email": "emmadavis@example.com",
+        "phone_number": "+12345678906"
+    },
+    {
+        "firstname": "Olivia",
+        "lastname": "Miller",
+        "username": "oliviamiller",
+        "email": "oliviamiller@example.com",
+        "phone_number": "+12345678907"
+    },
+    {
+        "firstname": "Liam",
+        "lastname": "Wilson",
+        "username": "liamwilson",
+        "email": "liamwilson@example.com",
+        "phone_number": "+12345678908"
+    },
+    {
+        "firstname": "Sophia",
+        "lastname": "Moore",
+        "username": "sophiamoore",
+        "email": "sophiamoore@example.com",
+        "phone_number": "+12345678909"
+    },
+    {
+        "firstname": "James",
+        "lastname": "Taylor",
+        "username": "jamestaylor",
+        "email": "jamestaylor@example.com",
+        "phone_number": "+12345678910"
+    },
+    {
+        "firstname": "Isabella",
+        "lastname": "Anderson",
+        "username": "isabellaanderson",
+        "email": "isabellaanderson@example.com",
+        "phone_number": "+12345678911"
+    },
+    {
+        "firstname": "Benjamin",
+        "lastname": "Thomas",
+        "username": "benjaminthomas",
+        "email": "benjaminthomas@example.com",
+        "phone_number": "+12345678912"
+    },
+    {
+        "firstname": "Mia",
+        "lastname": "Jackson",
+        "username": "miajackson",
+        "email": "miajackson@example.com",
+        "phone_number": "+12345678913"
+    },
+    {
+        "firstname": "Lucas",
+        "lastname": "White",
+        "username": "lucaswhite",
+        "email": "lucaswhite@example.com",
+        "phone_number": "+12345678914"
+    },
+    {
+        "firstname": "Evelyn",
+        "lastname": "Harris",
+        "username": "evelynharris",
+        "email": "evelynharris@example.com",
+        "phone_number": "+12345678915"
+    },
+    {
+        "firstname": "Daniel",
+        "lastname": "Martin",
+        "username": "danielmartin",
+        "email": "danielmartin@example.com",
+        "phone_number": "+12345678916"
+    },
+    {
+        "firstname": "Amelia",
+        "lastname": "Garcia",
+        "username": "ameliagarcia",
+        "email": "ameliagarcia@example.com",
+        "phone_number": "+12345678917"
+    },
+    {
+        "firstname": "Henry",
+        "lastname": "Martinez",
+        "username": "henrymartinez",
+        "email": "henrymartinez@example.com",
+        "phone_number": "+12345678918"
+    },
+    {
+        "firstname": "Ava",
+        "lastname": "Robinson",
+        "username": "avarobinson",
+        "email": "avarobinson@example.com",
+        "phone_number": "+12345678919"
+    },
+    {
+        "firstname": "Ethan",
+        "lastname": "Clark",
+        "username": "ethanclark",
+        "email": "ethanclark@example.com",
+        "phone_number": "+12345678920"
+    }
+]

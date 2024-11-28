@@ -1,0 +1,34 @@
+[
+    {
+        "username": "johndoe1",
+        "firstname": "John",
+        "lastname": "Doe",
+        "email": "johndoe1@example.com",
+        "phone_number": "+12345678901",
+        "id": "35681df0-ba7f-4a5b-8396-a1d3e9a4c002"
+    },
+    {
+        "username": "janesmith",
+        "firstname": "Jane",
+        "lastname": "Smith",
+        "email": "janesmith@example.com",
+        "phone_number": "+12345678902",
+        "id": "01f49774-5bf9-426e-a56d-ae9b4bb7a759"
+    },
+    {
+        "username": "alicejohnson",
+        "firstname": "Alice",
+        "lastname": "Johnson",
+        "email": "alicejohnson@example.com",
+        "phone_number": "+12345678903",
+        "id": "88c83029-bae6-42e1-bfba-b26bb0c97065"
+    },
+    {
+        "firstname": "Bob",
+        "lastname": "Williams",
+        "username": "bobwilliams",
+        "email": "bobwilliams@example.com",
+        "phone_number": "+12345678904",
+        "id": "74c9e622-f2d1-4271-8bca-63b9748cb174"
+    }
+]
